@@ -94,16 +94,8 @@
    box-shadow: 0px 0px 15px rgba(119, 100, 189, 0.723),
    0px 0px 30px rgba(112, 100, 189, 0.723),
    0px 0px 50px rgba(139, 100, 189, 0.723),
-   0px 0px 80px rgba(125, 100, 189, 0.723);
-}
-.card[for = "c1"] {
-   background-color: #223;
-}
-.card[for = "c1"] h1 {
-   color: white;
-   z-index: 2;
-   padding-bottom: 50px;
-}
+   0px 0px 80px rgba(139, 100, 189, 0.723);
+} 
 h4 {
    padding-bottom: 60px;
    font-size: 1.45rem;
