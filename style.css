@@ -75,19 +75,19 @@
     transform: translateY() !important;
  }
  .card[for = "c2"]{
-    background-image: url(anime.jpg);
+    background-image: url("anime.jpg");
     background-size: cover;
  }
  .card[for = "c3"]{
-   background-image: url("gojo.jpeg");
+   background-image: url("gojo.webp");
    background-size: cover;
 }
 .card[for = "c4"]{
-   background-image: url(uchhia.jpg);
+   background-image: url("uchhia.jpg");
    background-size: cover;
 }
 .card[for = "c5"]{
-   background-image: url(sinchan.jpg);
+   background-image: url("sinchan.jpg");
    background-size: cover;
 }
 .card:hover {
